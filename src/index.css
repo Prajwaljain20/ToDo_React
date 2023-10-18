@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&family=Space+Mono:wght@700&display=swap');
+body {
+  font-family: 'Pixelify Sans', cursive;
+  font-family: 'Space Mono', monospace;
+  background: rgb(231, 230, 228);
+}
